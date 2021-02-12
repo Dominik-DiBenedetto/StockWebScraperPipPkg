@@ -8,7 +8,7 @@ setup(
   author = 'The Scripting Legend',                   # Type in your name
   author_email = 'thescriptinglegend@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/YT-The-Scripting-Legend/StockWebScraperPipPkg',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/YT-The-Scripting-Legend/StockWebScraperPipPkg/archive/v_01.tar.gz',    # The realease assets URL for download
   keywords = ['STOCKS', 'STOCK', 'STOCK MARKET', 'WEB', 'SCRAPING', 'WEB SCRAPING'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'beautifulsoup4',

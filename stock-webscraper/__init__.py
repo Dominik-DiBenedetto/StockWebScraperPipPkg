@@ -1,0 +1,1 @@
+from main import getURL, getPrice, getPercentage, getDifference

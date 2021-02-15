@@ -1,1 +1,1 @@
-from stockwebscraper.main import getPrice, getURL, getDifference, getPercentage
+from main import getPrice, getURL, getDifference, getPercentage
